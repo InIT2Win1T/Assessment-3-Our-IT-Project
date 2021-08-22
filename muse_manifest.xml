@@ -1,0 +1,108 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="InIT2WinIT.html" resolutions="1x" timestamp="1629599006298">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="434930842" ref="justin-webster:roles:player-cards:artifacts:shang-min-huang:joshua-salanitri:index:simon-windsor:nickolas-savant:cpanel:scopes-and-limitations:website-architecture:testing:web-scrape:tools-and-technologies:team-personality-profile:timeframe:risks:tools:group-reflection:ideal-jobs:group-processes-and-communication:skills-and-jobs:group-process:technical-lead:career-plans:graphic-designer:overview:references:qa-tester:aims:full-stackweb-dev:plans-and-progress"/>
+    <file name="justin-webster.css" crc="283733921" ref="justin-webster"/>
+    <file name="roles.css" crc="3961794890" ref="roles"/>
+    <file name="player-cards.css" crc="4111634796" ref="player-cards"/>
+    <file name="artifacts.css" crc="16210909" ref="artifacts"/>
+    <file name="shang-min-huang.css" crc="405031878" ref="shang-min-huang"/>
+    <file name="joshua-salanitri.css" crc="294117254" ref="joshua-salanitri"/>
+    <file name="index.css" crc="3792035833" ref="index"/>
+    <file name="simon-windsor.css" crc="3851020959" ref="simon-windsor"/>
+    <file name="nickolas-savant.css" crc="236247513" ref="nickolas-savant"/>
+    <file name="cpanel.css" crc="3907543557" ref="cpanel"/>
+    <file name="scopes-and-limitations.css" crc="4128029" ref="scopes-and-limitations"/>
+    <file name="website-architecture.css" crc="4103829340" ref="website-architecture"/>
+    <file name="testing.css" crc="224490590" ref="testing"/>
+    <file name="web-scrape.css" crc="4193810095" ref="web-scrape"/>
+    <file name="tools-and-technologies.css" crc="317224799" ref="tools-and-technologies"/>
+    <file name="team-personality-profile.css" crc="4267859479" ref="team-personality-profile"/>
+    <file name="timeframe.css" crc="3972607598" ref="timeframe"/>
+    <file name="risks.css" crc="370113734" ref="risks"/>
+    <file name="tools.css" crc="4117513564" ref="tools"/>
+    <file name="group-reflection.css" crc="302349586" ref="group-reflection"/>
+    <file name="ideal-jobs.css" crc="18004235" ref="ideal-jobs"/>
+    <file name="group-processes-and-communication.css" crc="302035677" ref="group-processes-and-communication"/>
+    <file name="skills-and-jobs.css" crc="4063579095" ref="skills-and-jobs"/>
+    <file name="group-process.css" crc="3982655038" ref="group-process"/>
+    <file name="technical-lead.css" crc="4180039861" ref="technical-lead"/>
+    <file name="career-plans.css" crc="4202007163" ref="career-plans"/>
+    <file name="graphic-designer.css" crc="3964509744" ref="graphic-designer"/>
+    <file name="overview.css" crc="347350720" ref="overview"/>
+    <file name="references.css" crc="4020015774" ref="references"/>
+    <file name="qa-tester.css" crc="38432682" ref="qa-tester"/>
+    <file name="aims.css" crc="4029601214" ref="aims"/>
+    <file name="full-stackweb-dev.css" crc="147320064" ref="full-stackweb-dev"/>
+    <file name="plans-and-progress.css" crc="267430356" ref="plans-and-progress"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:justin-webster:joshua-salanitri:nickolas-savant:shang-min-huang:simon-windsor:team-personality-profile:ideal-jobs:group-process:career-plans:overview:aims:plans-and-progress:roles:scopes-and-limitations:tools-and-technologies:testing:timeframe:risks:group-processes-and-communication:group-reflection:skills-and-jobs:technical-lead:graphic-designer:qa-tester:full-stackweb-dev:artifacts:player-cards:cpanel:web-scrape:website-architecture:tools:references"/>
+    <file name="museutils.js" crc="163421577" ref="index:justin-webster:joshua-salanitri:nickolas-savant:shang-min-huang:simon-windsor:team-personality-profile:ideal-jobs:group-process:career-plans:overview:aims:plans-and-progress:roles:scopes-and-limitations:tools-and-technologies:testing:timeframe:risks:group-processes-and-communication:group-reflection:skills-and-jobs:technical-lead:graphic-designer:qa-tester:full-stackweb-dev:artifacts:player-cards:cpanel:web-scrape:website-architecture:tools:references"/>
+    <file name="whatinput.js" crc="86476730" ref="index:justin-webster:joshua-salanitri:nickolas-savant:shang-min-huang:simon-windsor:team-personality-profile:ideal-jobs:group-process:career-plans:overview:aims:plans-and-progress:roles:scopes-and-limitations:tools-and-technologies:testing:timeframe:risks:group-processes-and-communication:group-reflection:skills-and-jobs:technical-lead:graphic-designer:qa-tester:full-stackweb-dev:artifacts:player-cards:cpanel:web-scrape:website-architecture:tools:references"/>
+    <file name="museconfig.js" crc="168988563" ref="index:justin-webster:joshua-salanitri:nickolas-savant:shang-min-huang:simon-windsor:team-personality-profile:ideal-jobs:group-process:career-plans:overview:aims:plans-and-progress:roles:scopes-and-limitations:tools-and-technologies:testing:timeframe:risks:group-processes-and-communication:group-reflection:skills-and-jobs:technical-lead:graphic-designer:qa-tester:full-stackweb-dev:artifacts:player-cards:cpanel:web-scrape:website-architecture:tools:references"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:justin-webster:joshua-salanitri:nickolas-savant:shang-min-huang:simon-windsor:team-personality-profile:ideal-jobs:group-process:career-plans:overview:aims:plans-and-progress:roles:scopes-and-limitations:tools-and-technologies:testing:timeframe:risks:group-processes-and-communication:group-reflection:skills-and-jobs:technical-lead:graphic-designer:qa-tester:full-stackweb-dev:artifacts:player-cards:cpanel:web-scrape:website-architecture:tools:references"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:justin-webster:joshua-salanitri:nickolas-savant:shang-min-huang:simon-windsor:team-personality-profile:ideal-jobs:group-process:career-plans:overview:aims:plans-and-progress:roles:scopes-and-limitations:tools-and-technologies:testing:timeframe:risks:group-processes-and-communication:group-reflection:skills-and-jobs:technical-lead:graphic-designer:qa-tester:full-stackweb-dev:artifacts:player-cards:cpanel:web-scrape:website-architecture:tools:references"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:justin-webster:joshua-salanitri:nickolas-savant:shang-min-huang:simon-windsor:team-personality-profile:ideal-jobs:group-process:career-plans:overview:aims:plans-and-progress:roles:scopes-and-limitations:tools-and-technologies:testing:timeframe:risks:group-processes-and-communication:group-reflection:skills-and-jobs:technical-lead:graphic-designer:qa-tester:full-stackweb-dev:artifacts:player-cards:cpanel:web-scrape:website-architecture:tools:references"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:justin-webster:joshua-salanitri:nickolas-savant:shang-min-huang:simon-windsor:team-personality-profile:ideal-jobs:group-process:career-plans:overview:aims:plans-and-progress:roles:scopes-and-limitations:tools-and-technologies:testing:timeframe:risks:group-processes-and-communication:group-reflection:skills-and-jobs:technical-lead:graphic-designer:qa-tester:full-stackweb-dev:artifacts:player-cards:cpanel:web-scrape:website-architecture:tools:references"/>
+    <file name="require.js" crc="244322403" ref="index:justin-webster:joshua-salanitri:nickolas-savant:shang-min-huang:simon-windsor:team-personality-profile:ideal-jobs:group-process:career-plans:overview:aims:plans-and-progress:roles:scopes-and-limitations:tools-and-technologies:testing:timeframe:risks:group-processes-and-communication:group-reflection:skills-and-jobs:technical-lead:graphic-designer:qa-tester:full-stackweb-dev:artifacts:player-cards:cpanel:web-scrape:website-architecture:tools:references"/>
+  </folder>
+  <folder name="images">
+    <file name="init2winit-page-fr.png" crc="4290044221" ref="index:justin-webster:joshua-salanitri:nickolas-savant:shang-min-huang:simon-windsor:team-personality-profile:ideal-jobs:group-process:career-plans:overview:aims:plans-and-progress:roles:scopes-and-limitations:tools-and-technologies:testing:timeframe:risks:group-processes-and-communication:group-reflection:skills-and-jobs:technical-lead:graphic-designer:qa-tester:full-stackweb-dev:artifacts:player-cards:cpanel:web-scrape:website-architecture:tools:references"/>
+    <file name="depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg" crc="4000775918" seo="true" ref="justin-webster"/>
+    <file name="josh pic.jpg" crc="88451950" seo="true" ref="joshua-salanitri"/>
+    <file name="nick.jpg" crc="278088515" seo="true" ref="nickolas-savant"/>
+    <file name="oldphoto_shang.jpg" crc="3761758771" seo="true" ref="shang-min-huang"/>
+    <file name="selfie.jpg" crc="4057297380" seo="true" ref="simon-windsor"/>
+    <file name="table 1.jpg" crc="3912417600" seo="true" ref="team-personality-profile"/>
+    <file name="table 2.jpg" crc="19137729" seo="true" ref="team-personality-profile"/>
+    <file name="pasted image 630x514.jpg" crc="3773391166" seo="true" ref="ideal-jobs"/>
+    <file name="joshua kelly graph artifact.jpg" crc="4209447706" seo="true" ref="player-cards"/>
+    <file name="andrew brayshaw graph artefact.jpg" crc="3838144740" seo="true" ref="player-cards"/>
+    <file name="artifact 2.jpg" crc="3893649656" seo="true" ref="cpanel"/>
+    <file name="artifact 3.jpg" crc="4174336795" seo="true" ref="cpanel"/>
+    <file name="artifact 4.jpg" crc="55861197" seo="true" ref="cpanel"/>
+    <file name="artifact 5.jpg" crc="91643156" seo="true" ref="cpanel"/>
+    <file name="artifact 7.jpg" crc="126138847" seo="true" ref="cpanel"/>
+    <file name="artifact 8.jpg" crc="4164135231" seo="true" ref="cpanel"/>
+    <file name="artifact 9.jpg" crc="9484716" seo="true" ref="cpanel"/>
+    <file name="artifact 6.jpg" crc="3235216" seo="true" ref="cpanel"/>
+    <file name="part1.jpg" crc="534607245" seo="true" ref="web-scrape"/>
+    <file name="part2.jpg" crc="3775609180" seo="true" ref="web-scrape"/>
+    <file name="part3.jpg" crc="3824742366" seo="true" ref="web-scrape"/>
+    <file name="website architecture artefact.jpg" crc="149578191" seo="true" ref="website-architecture"/>
+  </folder>
+  <file name="index.html" crc="397170329" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="justin-webster.html" crc="3831814520" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="joshua-salanitri.html" crc="3862693141" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="nickolas-savant.html" crc="3949144213" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="shang-min-huang.html" crc="4120035791" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="simon-windsor.html" crc="135152211" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="team-personality-profile.html" crc="457124938" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="ideal-jobs.html" crc="3805309686" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="group-process.html" crc="29221016" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="career-plans.html" crc="94301964" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="overview.html" crc="455702214" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="aims.html" crc="4249129184" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="plans-and-progress.html" crc="4292026972" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="roles.html" crc="4185824473" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="scopes-and-limitations.html" crc="526818725" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="tools-and-technologies.html" crc="442614640" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="testing.html" crc="3775059191" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="timeframe.html" crc="465103385" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="risks.html" crc="28656948" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="group-processes-and-communication.html" crc="3982677115" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="group-reflection.html" crc="510223585" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="skills-and-jobs.html" crc="4159540338" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="technical-lead.html" crc="448866158" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="graphic-designer.html" crc="157006742" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="qa-tester.html" crc="279758651" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="full-stackweb-dev.html" crc="131241935" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="artifacts.html" crc="3947263362" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="player-cards.html" crc="450231210" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="cpanel.html" crc="4000865560" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="web-scrape.html" crc="3783524906" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="website-architecture.html" crc="442970808" seo="true" mt="1629598383092" redirect="true"/>
+  <file name="tools.html" crc="3806443527" seo="true" mt="1629598884125" redirect="true"/>
+  <file name="references.html" crc="3828198982" seo="true" mt="1629598383092" redirect="true"/>
+</manifest>
